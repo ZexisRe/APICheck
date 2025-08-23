@@ -59,5 +59,8 @@ fluck-day-hCRJS7BVMhMfGzsJ
 fluck-month-njAGXnUXoW83Raku
 fluck-month-m2K9AInfBMpKV0at
 fluck-month-ygsOWTMf5MfQuxGw
+fluck-week-sxoQ0R410ts0sJQP
+fluck-week-TpDSZKrhkka3lnkp
+fluck-week-PitQT8rdiTpAnUpC
 
 
