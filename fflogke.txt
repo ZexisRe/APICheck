@@ -323,5 +323,6 @@ fluck-month-FbmdMh2UpwCVkxjB
 fluck-day-MGcHRz7GXjlmm6Qq
 fluck-hour-1xPAsECL9aNCBF3w
 fluck-day-m6aY3KFQ83w2qI80
-fluck-year-aJG5kWnexPVQkkaL
+fluck-year-aạG5kWnexPVQkkaL
 fluck-day-sXrBD3yXLiSvF6xE
+fluck-week-qF8ysuRr3B07pqEf
