@@ -9,7 +9,11 @@ fluck-month-oZ40a8CsN33f7ipJ
 fluck-month-pyzyUrAP5kplYogt
 fluck-month-hOS9Siy3eiMVsOcj
 fluck-month-Z5j0ZCOCR4g9GKX9
-
+fluck-week-GGeG5QorMigwD9mF
+fluck-week-sFugtj2K0XO7dBZT
+fluck-week-FAS3tM6lF3MtSs95
+fluck-week-GNshEZSI7lVGmr0p
+fluck-week-ooXPsgOCYnSh3io6
 fluck-day-lJ50LH7Pw3ZW3hCt
 fluck-day-2QIOrUHBFWWNN2Tz
 fluck-day-vWpgvmwzgMuXPJSl
