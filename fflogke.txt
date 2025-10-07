@@ -4,3 +4,4 @@ fluck-Test.V11
 fluck-day-Vc7gkv5CQJizdY8D
 fluck-month-kYyEfRmB3MTaUJQc
 fluck-year-luWtKFSjJRTDJqLt
+fluck-week-8HBlXCin6IwyUBNA
